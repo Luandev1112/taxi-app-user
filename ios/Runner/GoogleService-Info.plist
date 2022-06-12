@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>214496791559-qr3nerrblmj5hfh4ekqfi00vn58qaac5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.214496791559-qr3nerrblmj5hfh4ekqfi00vn58qaac5</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>214496791559-2ofc5fg1blq9aq4a1c8rj1mqkbmge6kq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAb_u7nmm8jZl7dm94lOMGT5dlajdrF46o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>214496791559</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.user.tagxi</string>
+	<key>PROJECT_ID</key>
+	<string>tagxi-340103</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tagxi-340103.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:214496791559:ios:d336119c992828fde2eea2</string>
+	<key>DATABASE_URL</key>
+	<string>https://tagxi-340103-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
